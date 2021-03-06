@@ -52,7 +52,7 @@ Ex.: colocar número em char, ele sempre foi número, só que o compilador inter
 - valor o que você vai colocar pra lembrar? opcional, pode colocar depois<br><br>
 
 na prática:
-```
+```c
 int main(){
   int idade_c, outra_var;//cria 2 variáveis, nome idade_c e outra_var
   outra_var = 49; //coloca 49 como valor
