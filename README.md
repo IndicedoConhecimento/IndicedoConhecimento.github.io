@@ -68,5 +68,5 @@ você já leu um artigo na wikipédia e tem aqueles [1] e [2]?<br>
 são referências, que ficam no final pra não atrapalhar ali.<br><br>
 
 com printf é a mesma coisa, mas você tem que dizer o tipo: printf("idade do C eh %i,var_int);<br>
-tem vários tipos de referência, além do tipo da variável, muda como imprime, se é binário, decimal ou hexa.<br
+tem vários tipos de referência, além do tipo da variável, muda como imprime, se é binário, decimal ou hexa.<br>
 [Lista Deles](https://docs.microsoft.com/pt-br/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions?view=msvc-160#type-field-characters)
