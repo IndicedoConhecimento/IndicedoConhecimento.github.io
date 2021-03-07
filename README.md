@@ -1,6 +1,6 @@
 # AULAS
 
-<img src="https://cdn.discordapp.com/attachments/811046575555346502/817514642766823484/c-programming-569564.png">  TUTORIAIS DE C  [Início](https://tutoriais-de-c.ndicedodo.repl.co/)   [Discord](https://tutoriais-de-c.ndicedodo.repl.co/discord.html)   [Aulas](https://indicedoconhecimento.github.io/)
+TUTORIAIS DE C  [Início](https://tutoriais-de-c.ndicedodo.repl.co/)   [Discord](https://tutoriais-de-c.ndicedodo.repl.co/discord.html)   [Aulas](https://indicedoconhecimento.github.io/)
 
 ## AULA 1 - Hello World
 
@@ -71,4 +71,4 @@ são referências, que ficam no final pra não atrapalhar ali.<br><br>
 
 com printf é a mesma coisa, mas você tem que dizer o tipo: printf("idade do C eh %i,var_int);<br>
 tem vários tipos de referência, além do tipo da variável, muda como imprime, se é binário, decimal ou hexa.<br>
-[Lista Deles](https://docs.microsoft.com/pt-br/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions?view=msvc-160#type-field-characters)
+[Lista Deles](https://docs.microsoft.com/pt-br/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions?view=msvc-160#type-field-characters)<br><br><br><br><br><br><img src="https://cdn.discordapp.com/attachments/811046575555346502/817514642766823484/c-programming-569564.png">
