@@ -1,6 +1,6 @@
 # AULAS
 
-TUTORIAIS DE C  [Início](https://tutoriais-de-c.ndicedodo.repl.co/)   [Discord](https://tutoriais-de-c.ndicedodo.repl.co/discord.html)   [Aulas](https://indicedoconhecimento.github.io/)
+<img src="https://cdn.discordapp.com/attachments/811046575555346502/817514642766823484/c-programming-569564.png">  TUTORIAIS DE C  [Início](https://tutoriais-de-c.ndicedodo.repl.co/)   [Discord](https://tutoriais-de-c.ndicedodo.repl.co/discord.html)   [Aulas](https://indicedoconhecimento.github.io/)
 
 ## AULA 1 - Hello World
 
